@@ -1,6 +1,6 @@
 # 👩‍💻 Denise Nobre
 
-Olá! 👋 Sou uma entusiasta da tecnologia, apaixonada por desenvolvimento web. Atualmente estudo e pratico desenvolvimento utilizando **HTML**, **CSS**, **JavaScript** e **Java**, sempre buscando aprender mais e aprimorar minhas habilidades. Acredito no poder da colaboração, do código aberto e do compartilhamento de conhecimento. 💻🚀
+Olá! 👋 Me chamo Denise e estou nesta jornada de aprendizado em desenvolvimento web. Atualmente, estudo e pratico programação utilizando **HTML**, **CSS**, **JavaScript** e **Java**, sempre buscando evoluir minhas habilidades.
 
 ## 🚀 Minhas Habilidades
 - 🔥 HTML
@@ -24,6 +24,12 @@ Olá! 👋 Sou uma entusiasta da tecnologia, apaixonada por desenvolvimento web.
 - ✨ Veja meus projetos no meu perfil do GitHub: [github.com/DeniseNobre](https://github.com/DeniseNobre)
 
 ## 🌐 Onde me encontrar
+- 💼 [GitHub](https://github.com/DeniseNobre)
+
+---
+
+✨ *Esse README foi criado para o bootcamp da DIO (Back-End com Java)* 💙
+
 - 💼 [GitHub](https://github.com/DeniseNobre)
 
 ---
