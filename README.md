@@ -25,6 +25,5 @@ Olá! 👋 Me chamo Denise e estou nesta jornada de aprendizado em desenvolvimen
 ✨ *Esse README foi criado para o bootcamp da DIO (Back-End com Java)* 💙
 
 ![cat coder](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-https://tenor.com/bDpUk.gif
 ![Bunny coding](https://media.tenor.com/I6kN-6X7nhAAAAAj/bunny-rabbit.gif)
 
